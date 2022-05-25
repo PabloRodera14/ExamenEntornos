@@ -50,6 +50,7 @@ namespace Deposito.PabloRodera
         /// Se han realizados introduccion de llaves y corregido cierto código.
         /// </summary>
         /// <remarks>El tamaño del depósito de pienso es de 1000 l.</remarks>
+        /// <exception cref="System.ArgumentOutOfRangeException">cantidadMaxAgua es superior a 10000.</exception>
         /// <param name="reponerAgua">La variable que se le pasará a este método indicará el agua que queremos reponer.</param>
         public void ReponerAgua(float cantidadAgua)
         {
@@ -66,6 +67,7 @@ namespace Deposito.PabloRodera
         /// Se han realizados introduccion de llaves y corregido cierto código.
         /// </summary>
         /// <remarks>El tamaño del depósito de pienso es de 5000 kg.</remarks>
+        /// <exception cref="System.ArgumentOutOfRangeException">cantidadMaxPienso es superior a 5000.</exception>
         /// <param name="cantPienso">Introducimos la cantidad de pienso que queremos reponer.</param>
         public void ReponerPienso(float cantPienso)
         {

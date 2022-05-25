@@ -1,0 +1,6 @@
+C:\Users\Pablo Workstation\Desktop\ExamenT3\ExamenEntornos\Examen\bin\Debug\Examen.dll
+C:\Users\Pablo Workstation\Desktop\ExamenT3\ExamenEntornos\Examen\bin\Debug\Examen.pdb
+C:\Users\Pablo Workstation\Desktop\ExamenT3\ExamenEntornos\Examen\obj\Debug\Examen.csproj.AssemblyReference.cache
+C:\Users\Pablo Workstation\Desktop\ExamenT3\ExamenEntornos\Examen\obj\Debug\Examen.csproj.CoreCompileInputs.cache
+C:\Users\Pablo Workstation\Desktop\ExamenT3\ExamenEntornos\Examen\obj\Debug\Examen.dll
+C:\Users\Pablo Workstation\Desktop\ExamenT3\ExamenEntornos\Examen\obj\Debug\Examen.pdb
